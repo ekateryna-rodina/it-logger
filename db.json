@@ -1,80 +1,41 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Work station is not posting",
+      "message": "Changed hard drive on workstation 008",
+      "tech": "John Smith",
       "attention": true,
-      "date": "05-07-2019",
-      "tech": "Jeff Benney"
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "07-12-2019",
-      "tech": "Sam Smith"
+      "message": "Memory block is damaged section 7566 ",
+      "attention": true,
+      "tech": "Jeff Benney",
+      "date": "2021-01-07T19:26:54.525Z",
+      "id": 2
     },
     {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "id": 11
-    },
-    {
-      "message": "fgd",
+      "message": "Hardware small issue 4355",
       "attention": false,
       "tech": "John Smith",
-      "date": "2021-01-07T16:08:22.829Z",
-      "id": 12
-    },
-    {
-      "message": "fgd",
-      "attention": false,
-      "tech": "John Smith",
-      "date": "2021-01-07T16:10:02.245Z",
-      "id": 13
+      "date": "2021-01-07T19:27:16.709Z",
+      "id": 3
     }
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 2,
-      "firstName": "Jeff",
-      "lastName": "Benney"
-    },
-    {
       "firstName": "Federico",
       "lastName": "Pistolli",
       "id": 3
+    },
+    {
+      "firstName": "Kateryna",
+      "lastName": "sdes",
+      "id": 5
+    },
+    {
+      "firstName": "Kateryna",
+      "lastName": "bb",
+      "id": 8
     }
   ]
 }
